@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1",
+    "name": "Zoé",
+    "power": "135 cv",
+    "battery": "52 KWh",
+    "recharge": "1h 05m",
+    "urlPhoto": "https://cdn.motor1.com/images/mgl/333vX/s3/renault-zoe-intense-2021.jpg" 
+  },
+  {
+    "id": "2",
+    "name": "Kwid",
+    "power": "65 cv",
+    "battery": "26,8 KWh",
+    "recharge": "40m",
+    "urlPhoto": "https://cdn.motor1.com/images/mgl/jlxljg/s3/renault-kwid-e-tech---destaque-2.jpg" 
+  },
+]
