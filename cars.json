@@ -2,6 +2,7 @@
   {
     "id": "1",
     "name": "Zoé",
+    "price": "300.000 BRL",
     "power": "135 cv",
     "battery": "52 KWh",
     "recharge": "1h 05m",
@@ -10,6 +11,7 @@
   {
     "id": "2",
     "name": "Kwid",
+    "price": "300.000 BRL",
     "power": "65 cv",
     "battery": "26,8 KWh",
     "recharge": "40m",
