@@ -1,30 +1,30 @@
 [
   {
     "id": 1,
-    "title": "Você sabia?",
-    "description": "Mulheres colecionam conquistas históricas no futebol; veja oito delas neste 8 de março.",
-    "image": "https://digitalinnovationone.github.io/soccer-news-api/images/1.jpg",
-    "link": "https://ge.globo.com/pe/futebol/noticia/2022/03/08/voce-sabia-mulheres-colecionam-conquistas-historicas-no-futebol-veja-oito-delas-neste-8-de-marco.ghtml"
+    "title": "FC Porto vence em Famalicão e está mais perto da final da Taça: veja o resumo",
+    "description": "Triunfo dos dragões por 2-1 na primeira mão das meias-finais",
+    "image": "https://static.globalnoticias.pt/oj/image.jpg?brand=OJ&type=generate&guid=783221b3-4b82-4b40-b572-f24fd5af76d3&w=735&h=490&t=20230426221444",
+    "url": "https://www.ojogo.pt/futebol/taca-portugal/noticias/fc-porto-vence-em-famalicao-e-esta-mais-perto-da-final-da-taca-16249796.html"
   },
   {
     "id": 2,
-    "title": "Por que vou parar de sonhar?",
-    "description": "Em carta ao filho, Cristiane recorda infância dura e ambições: Por que vou parar de sonhar?",
-    "image": "https://digitalinnovationone.github.io/soccer-news-api/images/2.jpg",
-    "link": "https://ge.globo.com/pe/futebol/noticia/2022/03/02/em-carta-ao-filho-cristiane-recorda-infancia-dura-e-ambicoes-por-que-vou-parar-de-sonhar.ghtml"
+    "title": "«Nunca será só futebol»",
+    "description": "Sérgio Conceição oferece camisola a criança",
+    "image": "https://www.abola.pt/img/fotos/abola2015/PORTO/2022/SergioConceicao110.jpg",
+    "url": "https://www.abola.pt/Clubes/2023-04-25/fc-porto-nunca-sera-so-futebol-sergio-conceicao-oferece-camisola-a-crianca-vi/985176/42"
   },
   {
     "id": 3,
-    "title": "Dupla de respeito",
-    "description": "Com show da dupla Jhonson e Aline, Brasil estreia com vitória no Sul-Americano Feminino Sub-17.",
-    "image": "https://digitalinnovationone.github.io/soccer-news-api/images/3.jpg",
-    "link": "https://ge.globo.com/futebol/selecao-brasileira/noticia/2022/03/02/com-show-da-dupla-jhonson-e-aline-brasil-estreia-com-vitoria-no-sul-americano-feminino-sub-17.ghtml"
+    "title": "Uefa muda Liga das Nações e eliminatórias da Copa do Mundo",
+    "description": "Torneio ganha mais uma fase, quartas de final, e playoffs do rebaixamento. Qualificação para Mundial terá mais grupos, com menos participantes",
+    "image": "https://s2.glbimg.com/ST5k65zkOq3YQcwqAiZYJrWTdsk=/0x0:4891x3067/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2023/G/v/7P5HIRS8O9RWUoF6i8Wg/2023-01-25t113320z-231770334-up1ej1p0w3i9j-rtrmadp-3-soccer-uefanations-draw.jpg",
+    "link": "https://ge.globo.com/futebol/futebol-internacional/noticia/2023/01/25/uefa-muda-liga-das-nacoes-e-eliminatorias-da-copa-do-mundo.ghtml"
   },
   {
     "id": 4,
-    "title": "Estreia marcada",
-    "description": "São Paulo divulga numeração do time feminino e tem nova camisa 10; veja lista.",
-    "image": "https://digitalinnovationone.github.io/soccer-news-api/images/4.jpg",
-    "link": "https://ge.globo.com/futebol/times/sao-paulo/noticia/2022/03/04/noticias-spfc-sao-paulo-numeracao-time-feminino-camisa-10-lista.ghtml"
+    "title": "Seleção brasileira vai enfrentar rivais europeus de primeiro nível em março de 2024",
+    "description": "Acordo entre Conmebol e Uefa prevê duelos entre seleções dos dois continentes",
+    "image": "https://s2.glbimg.com/nE4L9RRnxCIKHcmDBayLAjdcb5Y=/0x0:2332x1614/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2022/Y/t/qX20yLSRq23bRhsEBqng/2022-12-09t000000z-795731967-up1eic9178gbk-rtrmadp-3-soccer-worldcup-cro-bra-report.jpg",
+    "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2023/03/15/selecao-brasileira-vai-enfrentar-rivais-europeus-de-primeiro-nivel-em-marco-de-2024.ghtml"
   }
 ]
