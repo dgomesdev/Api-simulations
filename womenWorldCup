@@ -1,0 +1,52 @@
+[
+  {
+    "name": "1st Round",
+    "stadium": {
+      "name": "SIDNEY FOOTBALL STADIUM",
+      "image": "https://digitalhub.fifa.com/transform/31fc369c-ad8f-4ebf-bdc3-268d120c75e0/FIFA-Women-s-World-Cup-Australia-New-Zealand-2023-Sydney-Football-Stadium?io=transform:fill,height:775,width:1180&quality=100"
+    },
+    "homeTeam": "FRA",
+    "awayTeam": "JAM",
+    "date": "2023-07-23T11:00:00Z"
+  },
+  {
+    "name": "1st Round",
+    "stadium": {
+      "name": "HINDMARSH STADIUM",
+      "image": "https://digitalhub.fifa.com/transform/b704bec1-1b7a-4f4a-b2ef-114b46c99250/Hindmarsh-Stadium-updates?io=transform:fill,height:775,width:1180&quality=100"
+    },
+    "homeTeam": "BRA",
+    "awayTeam": "PAN",
+    "date": "2023-07-24T12:00:00Z"
+  },
+  {
+    "name": "2nd Round",
+    "stadium": {
+      "name": "BRISBANE STADIUM",
+      "image": "https://digitalhub.fifa.com/transform/2171a389-93b4-408e-ada7-637ed5792246/okuiz7fofp41ds80dfua-jpg?io=transform:fill,height:775,width:1180&quality=100"
+    },
+    "homeTeam": "FRA",
+    "awayTeam": "BRA",
+    "date": "2023-07-29T11:00:00Z"
+  },
+  {
+    "name": "3rd Round",
+    "stadium": {
+      "name": "MELBOURNE RECTANGULAR STADIUM",
+      "image": "https://digitalhub.fifa.com/transform/83b00d4f-08ee-42ea-9557-85af1c3abdfe/nbonyd4swiogxcrige6p-jpg?io=transform:fill,height:775,width:1180&quality=100"
+    },
+    "homeTeam": "JAM",
+    "awayTeam": "BRA",
+    "date": "2023-08-02T11:00:00Z"
+  },
+  {
+    "name": "3rd Round",
+    "stadium": {
+      "name": "SIDNEY FOOTBALL STADIUM",
+      "image": "https://digitalhub.fifa.com/transform/31fc369c-ad8f-4ebf-bdc3-268d120c75e0/FIFA-Women-s-World-Cup-Australia-New-Zealand-2023-Sydney-Football-Stadium?io=transform:fill,height:775,width:1180&quality=100"
+    },
+    "homeTeam": "PAN",
+    "awayTeam": "FRA",
+    "date": "2023-08-02T11:00:00Z"
+  }
+]
