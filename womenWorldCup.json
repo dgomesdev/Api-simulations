@@ -75,7 +75,7 @@
       "name": "BRISBANE STADIUM",
       "image": "https://digitalhub.fifa.com/transform/2171a389-93b4-408e-ada7-637ed5792246/okuiz7fofp41ds80dfua-jpg?io=transform:fill,height:775,width:1180&quality=100"
     },
-    "homeTeam": "GB",
+    "homeTeam": "gbeng",
     "awayTeam": "HT",
     "date": "2023-07-22T10:30:00Z"
   },
@@ -565,8 +565,8 @@
       "name": "WELLINGTON REGIONAL STADIUM",
       "image": "https://digitalhub.fifa.com/transform/2171a389-93b4-408e-ada7-637ed5792246/okuiz7fofp41ds80dfua-jpg?io=transform:fill,height:775,width:1180&quality=100"
     },
-    "homeTeam": "-",
-    "awayTeam": "-",
+    "homeTeam": "UN",
+    "awayTeam": "UN",
     "date": "2023-08-11T02:00:00Z"
   },
   {
@@ -575,8 +575,8 @@
       "name": "EDEN PARK STADIUM",
       "image": "https://digitalhub.fifa.com/transform/83b00d4f-08ee-42ea-9557-85af1c3abdfe/nbonyd4swiogxcrige6p-jpg?io=transform:fill,height:775,width:1180&quality=100"
     },
-    "homeTeam": "-",
-    "awayTeam": "-",
+    "homeTeam": "UN",
+    "awayTeam": "UN",
     "date": "2023-08-11T06:30:00Z"
   },
   {
@@ -585,8 +585,8 @@
       "name": "BRISBANE STADIUM",
       "image": "https://digitalhub.fifa.com/transform/2171a389-93b4-408e-ada7-637ed5792246/okuiz7fofp41ds80dfua-jpg?io=transform:fill,height:775,width:1180&quality=100"
     },
-    "homeTeam": "-",
-    "awayTeam": "-",
+    "homeTeam": "UN",
+    "awayTeam": "UN",
     "date": "2023-08-12T08:00:00Z"
   },
   {
@@ -595,8 +595,8 @@
       "name": "STADIUM AUSTRALIA",
       "image": "https://digitalhub.fifa.com/transform/31fc369c-ad8f-4ebf-bdc3-268d120c75e0/FIFA-Women-s-World-Cup-Australia-New-Zealand-2023-Sydney-Football-Stadium?io=transform:fill,height:775,width:1180&quality=100"
     },
-    "homeTeam": "-",
-    "awayTeam": "-",
+    "homeTeam": "UN",
+    "awayTeam": "UN",
     "date": "2023-08-12T11:30:00Z"
   },
   {
@@ -605,8 +605,8 @@
       "name": "EDEN PARK STADIUM",
       "image": "https://digitalhub.fifa.com/transform/b704bec1-1b7a-4f4a-b2ef-114b46c99250/Hindmarsh-Stadium-updates?io=transform:fill,height:775,width:1180&quality=100"
     },
-    "homeTeam": "-",
-    "awayTeam": "-",
+    "homeTeam": "UN",
+    "awayTeam": "UN",
     "date": "2023-08-15T09:00:00Z"
   },
   {
@@ -615,8 +615,8 @@
       "name": "STADIUM AUSTRALIA",
       "image": "https://digitalhub.fifa.com/transform/2171a389-93b4-408e-ada7-637ed5792246/okuiz7fofp41ds80dfua-jpg?io=transform:fill,height:775,width:1180&quality=100"
     },
-    "homeTeam": "-",
-    "awayTeam": "-",
+    "homeTeam": "UN",
+    "awayTeam": "UN",
     "date": "2023-08-16T11:00:00Z"
   },
   {
@@ -625,8 +625,8 @@
       "name": "BRISBANE STADIUM",
       "image": "https://digitalhub.fifa.com/transform/2171a389-93b4-408e-ada7-637ed5792246/okuiz7fofp41ds80dfua-jpg?io=transform:fill,height:775,width:1180&quality=100"
     },
-    "homeTeam": "-",
-    "awayTeam": "-",
+    "homeTeam": "UN",
+    "awayTeam": "UN",
     "date": "2023-08-19T09:00:00Z"
   },
   {
@@ -635,8 +635,8 @@
       "name": "STADIUM AUSTRALIA",
       "image": "https://digitalhub.fifa.com/transform/31fc369c-ad8f-4ebf-bdc3-268d120c75e0/FIFA-Women-s-World-Cup-Australia-New-Zealand-2023-Sydney-Football-Stadium?io=transform:fill,height:775,width:1180&quality=100"
     },
-    "homeTeam": "-",
-    "awayTeam": "-",
+    "homeTeam": "UN",
+    "awayTeam": "UN",
     "date": "2023-08-20T11:00:00Z"
   }
 ]
