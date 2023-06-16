@@ -3,7 +3,7 @@
     "name": "GROUP A",
     "stadium": {
       "name": "EDEN PARK",
-      "image": "https://digitalhub.fifa.com/transform/1177bc85-75a3-43dd-b5f1-56605ab9618b/FIFA-WWC-2023-Eden-Park-full-stadium?io=transform:fill,height:775,width:1180&quality=100"
+      "image": "https://github.com/dgomesdev/Women-World-Cup/blob/main/docs/images/Brisbane-Stadium.webp"
     },
     "homeTeam": "NZ",
     "awayTeam": "NO",
