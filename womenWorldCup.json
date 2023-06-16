@@ -3,7 +3,7 @@
     "name": "GROUP A",
     "stadium": {
       "name": "EDEN PARK",
-      "image": "https://dgomesdev.github.io/Women-World-Cup/docs/images/Brisbane-Stadium.jpg"
+      "image": "https://dgomesdev.github.io/Women-World-Cup/docs/images/Eden-Park.jpg"
     },
     "homeTeam": "NZ",
     "awayTeam": "NO",
@@ -13,7 +13,7 @@
     "name": "GROUP B",
     "stadium": {
       "name": "DUNEDIN STADIUM",
-      "image": "https://digitalhub.fifa.com/transform/9a80209e-7816-4ca3-9b09-03acc02777d4/g28n6qzvnrx8yljbcbn2-jpg?io=transform:fill,height:775,width:1180&quality=100"
+      "image": "https://dgomesdev.github.io/Women-World-Cup/docs/images/Dunedin-Stadium.jpg"
     },
     "homeTeam": "AU",
     "awayTeam": "IE",
@@ -23,7 +23,7 @@
     "name": "GROUP B",
     "stadium": {
       "name": "MELBOURNE RECTANGULAR STADIUM",
-      "image": "https://digitalhub.fifa.com/transform/83b00d4f-08ee-42ea-9557-85af1c3abdfe/nbonyd4swiogxcrige6p-jpg?io=transform:fill,height:775,width:1180&quality=100"
+      "image": "https://dgomesdev.github.io/Women-World-Cup/docs/images/Melbourne-Rectangular-Stadium.jpg"
     },
     "homeTeam": "NG",
     "awayTeam": "CA",
@@ -33,7 +33,7 @@
     "name": "GROUP A",
     "stadium": {
       "name": "DUNEDIN STADIUM",
-      "image": "https://digitalhub.fifa.com/transform/9a80209e-7816-4ca3-9b09-03acc02777d4/g28n6qzvnrx8yljbcbn2-jpg?io=transform:fill,height:775,width:1180&quality=100"
+      "image": "https://dgomesdev.github.io/Women-World-Cup/docs/images/Dunedin-Stadium.jpg"
     },
     "homeTeam": "PH",
     "awayTeam": "CH",
@@ -43,7 +43,7 @@
     "name": "GROUP C",
     "stadium": {
       "name": "WELLINGTON REGIONAL STADIUM",
-      "image": "https://digitalhub.fifa.com/transform/bf1ee1a9-f38f-47ad-bca0-a2796ac2fac5/aarrqfnuj5gxdlj3olod-jpg?io=transform:fill,height:775,width:1180&quality=100"
+      "image": "https://dgomesdev.github.io/Women-World-Cup/docs/images/Wellington-Regional-Stadium.jpg"
     },
     "homeTeam": "ES",
     "awayTeam": "CR",
@@ -53,7 +53,7 @@
     "name": "GROUP E",
     "stadium": {
       "name": "EDEN PARK",
-      "image": "https://digitalhub.fifa.com/transform/1177bc85-75a3-43dd-b5f1-56605ab9618b/FIFA-WWC-2023-Eden-Park-full-stadium?io=transform:fill,height:775,width:1180&quality=100"
+      "image": "https://dgomesdev.github.io/Women-World-Cup/docs/images/Eden-Park.jpg"
     },
     "homeTeam": "US",
     "awayTeam": "VN",
@@ -63,7 +63,7 @@
     "name": "GROUP C",
     "stadium": {
       "name": "WAIKATO STADIUM",
-      "image": "https://digitalhub.fifa.com/transform/062f762c-ae96-4278-94b2-3b171ddfab40/qhrov2osyizbmlm533u1-jpg?io=transform:fill,height:775,width:1180&quality=100"
+      "image": "https://dgomesdev.github.io/Women-World-Cup/docs/images/Waikato-Stadium.jpg"
     },
     "homeTeam": "ZM",
     "awayTeam": "JP",
@@ -73,7 +73,7 @@
     "name": "GROUP D",
     "stadium": {
       "name": "BRISBANE STADIUM",
-      "image": "https://digitalhub.fifa.com/transform/2171a389-93b4-408e-ada7-637ed5792246/okuiz7fofp41ds80dfua-jpg?io=transform:fill,height:775,width:1180&quality=100"
+      "image": "https://dgomesdev.github.io/Women-World-Cup/docs/images/Brisbane-Stadium.jpg"
     },
     "homeTeam": "GB",
     "awayTeam": "HT",
@@ -83,7 +83,7 @@
     "name": "GROUP D",
     "stadium": {
       "name": "PERTH RECTANGULAR STADIUM",
-      "image": "https://digitalhub.fifa.com/transform/a3d552a7-126d-42b5-93ed-87e74383e7fa/Perth-Rectangular-Stadium?io=transform:fill,height:775,width:1180&quality=100"
+      "image": "https://dgomesdev.github.io/Women-World-Cup/docs/images/Perth-Rectangular-Stadium.jpg"
     },
     "homeTeam": "DK",
     "awayTeam": "CN",
@@ -93,7 +93,7 @@
     "name": "GROUP G",
     "stadium": {
       "name": "WELLINGTON REGIONAL STADIUM",
-      "image": "https://digitalhub.fifa.com/transform/1177bc85-75a3-43dd-b5f1-56605ab9618b/FIFA-WWC-2023-Eden-Park-full-stadium?io=transform:fill,height:775,width:1180&quality=100"
+      "image": "https://dgomesdev.github.io/Women-World-Cup/docs/images/Wellington-Regional-Stadium.jpg"
     },
     "homeTeam": "SE",
     "awayTeam": "ZA",
@@ -103,7 +103,7 @@
     "name": "GROUP E",
     "stadium": {
       "name": "DUNEDIN STADIUM",
-      "image": "https://digitalhub.fifa.com/transform/9a80209e-7816-4ca3-9b09-03acc02777d4/g28n6qzvnrx8yljbcbn2-jpg?io=transform:fill,height:775,width:1180&quality=100"
+      "image": "https://dgomesdev.github.io/Women-World-Cup/docs/images/Dunedin-Stadium.jpg"
     },
     "homeTeam": "NL",
     "awayTeam": "PT",
@@ -113,7 +113,7 @@
     "name": "GROUP F",
     "stadium": {
       "name": "SIDNEY FOOTBALL STADIUM",
-      "image": "https://digitalhub.fifa.com/transform/1177bc85-75a3-43dd-b5f1-56605ab9618b/FIFA-WWC-2023-Eden-Park-full-stadium?io=transform:fill,height:775,width:1180&quality=100"
+      "image": "https://dgomesdev.github.io/Women-World-Cup/docs/images/Sidney-Football-Stadium.jpg"
     },
     "homeTeam": "FR",
     "awayTeam": "JM",
@@ -123,7 +123,7 @@
     "name": "GROUP G",
     "stadium": {
       "name": "EDEN PARK",
-      "image": "https://digitalhub.fifa.com/transform/1177bc85-75a3-43dd-b5f1-56605ab9618b/FIFA-WWC-2023-Eden-Park-full-stadium?io=transform:fill,height:775,width:1180&quality=100"
+      "image": "https://dgomesdev.github.io/Women-World-Cup/docs/images/Eden-Park.jpg"
     },
     "homeTeam": "IT",
     "awayTeam": "AR",
@@ -133,7 +133,7 @@
     "name": "GROUP H",
     "stadium": {
       "name": "MELBOURNE RECTANGULAR STADIUM",
-      "image": "https://digitalhub.fifa.com/transform/83b00d4f-08ee-42ea-9557-85af1c3abdfe/nbonyd4swiogxcrige6p-jpg?io=transform:fill,height:775,width:1180&quality=100"
+      "image": "https://dgomesdev.github.io/Women-World-Cup/docs/images/Melbourne-Rectangular-Stadium.jpg"
     },
     "homeTeam": "DE",
     "awayTeam": "MA",
@@ -143,7 +143,7 @@
     "name": "GROUP F",
     "stadium": {
       "name": "HINDMARSH STADIUM",
-      "image": "https://digitalhub.fifa.com/transform/9a80209e-7816-4ca3-9b09-03acc02777d4/g28n6qzvnrx8yljbcbn2-jpg?io=transform:fill,height:775,width:1180&quality=100"
+      "image": "https://dgomesdev.github.io/Women-World-Cup/docs/images/Hindmarsh-Stadium.jpg"
     },
     "homeTeam": "BR",
     "awayTeam": "PA",
@@ -153,7 +153,7 @@
     "name": "GROUP H",
     "stadium": {
       "name": "SIDNEY FOOTBALL STADIUM",
-      "image": "https://digitalhub.fifa.com/transform/1177bc85-75a3-43dd-b5f1-56605ab9618b/FIFA-WWC-2023-Eden-Park-full-stadium?io=transform:fill,height:775,width:1180&quality=100"
+      "image": "https://dgomesdev.github.io/Women-World-Cup/docs/images/Sidney-Football-Stadium.jpg"
     },
     "homeTeam": "CO",
     "awayTeam": "KR",
@@ -163,7 +163,7 @@
     "name": "GROUP A",
     "stadium": {
       "name": "WELLINGTON REGIONAL STADIUM",
-      "image": "https://digitalhub.fifa.com/transform/bf1ee1a9-f38f-47ad-bca0-a2796ac2fac5/aarrqfnuj5gxdlj3olod-jpg?io=transform:fill,height:775,width:1180&quality=100"
+      "image": "https://dgomesdev.github.io/Women-World-Cup/docs/images/Wellington-Regional-Stadium.jpg"
     },
     "homeTeam": "NZ",
     "awayTeam": "PH",
@@ -173,7 +173,7 @@
     "name": "GROUP A",
     "stadium": {
       "name": "WAIKATO STADIUM",
-      "image": "https://digitalhub.fifa.com/transform/062f762c-ae96-4278-94b2-3b171ddfab40/qhrov2osyizbmlm533u1-jpg?io=transform:fill,height:775,width:1180&quality=100"
+      "image": "https://dgomesdev.github.io/Women-World-Cup/docs/images/Waikato-Stadium.jpg"
     },
     "homeTeam": "CH",
     "awayTeam": "NO",
@@ -183,7 +183,7 @@
     "name": "GROUP C",
     "stadium": {
       "name": "DUNEDIN STADIUM",
-      "image": "https://digitalhub.fifa.com/transform/9a80209e-7816-4ca3-9b09-03acc02777d4/g28n6qzvnrx8yljbcbn2-jpg?io=transform:fill,height:775,width:1180&quality=100"
+      "image": "https://dgomesdev.github.io/Women-World-Cup/docs/images/Dunedin-Stadium.jpg"
     },
     "homeTeam": "JP",
     "awayTeam": "CR",
@@ -193,7 +193,7 @@
     "name": "GROUP C",
     "stadium": {
       "name": "EDEN PARK",
-      "image": "https://digitalhub.fifa.com/transform/1177bc85-75a3-43dd-b5f1-56605ab9618b/FIFA-WWC-2023-Eden-Park-full-stadium?io=transform:fill,height:775,width:1180&quality=100"
+      "image": "https://dgomesdev.github.io/Women-World-Cup/docs/images/Eden-Park.jpg"
     },
     "homeTeam": "ES",
     "awayTeam": "ZM",
@@ -203,7 +203,7 @@
     "name": "GROUP B",
     "stadium": {
       "name": "PERTH RECTANGULAR STADIUM",
-      "image": "https://digitalhub.fifa.com/transform/a3d552a7-126d-42b5-93ed-87e74383e7fa/Perth-Rectangular-Stadium?io=transform:fill,height:775,width:1180&quality=100"
+      "image": "https://dgomesdev.github.io/Women-World-Cup/docs/images/Perth-Rectangular-Stadium.jpg"
     },
     "homeTeam": "CA",
     "awayTeam": "IE",
@@ -213,7 +213,7 @@
     "name": "GROUP E",
     "stadium": {
       "name": "WELLINGTON REGIONAL STADIUM",
-      "image": "https://digitalhub.fifa.com/transform/bf1ee1a9-f38f-47ad-bca0-a2796ac2fac5/aarrqfnuj5gxdlj3olod-jpg?io=transform:fill,height:775,width:1180&quality=100"
+      "image": "https://dgomesdev.github.io/Women-World-Cup/docs/images/Wellington-Regional-Stadium.jpg"
     },
     "homeTeam": "US",
     "awayTeam": "NL",
@@ -223,7 +223,7 @@
     "name": "GROUP E",
     "stadium": {
       "name": "WAIKATO  STADIUM",
-      "image": "https://digitalhub.fifa.com/transform/83b00d4f-08ee-42ea-9557-85af1c3abdfe/nbonyd4swiogxcrige6p-jpg?io=transform:fill,height:775,width:1180&quality=100"
+      "image": "https://dgomesdev.github.io/Women-World-Cup/docs/images/Waikato-Stadium.jpg"
     },
     "homeTeam": "PT",
     "awayTeam": "VN",
@@ -233,7 +233,7 @@
     "name": "GROUP B",
     "stadium": {
       "name": "PERTH RECTANGULAR STADIUM",
-      "image": "https://digitalhub.fifa.com/transform/a3d552a7-126d-42b5-93ed-87e74383e7fa/Perth-Rectangular-Stadium?io=transform:fill,height:775,width:1180&quality=100"
+      "image": "https://dgomesdev.github.io/Women-World-Cup/docs/images/Perth-Rectangular-Stadium.jpg"
     },
     "homeTeam": "AU",
     "awayTeam": "NG",
@@ -243,7 +243,7 @@
     "name": "GROUP G",
     "stadium": {
       "name": "DUNEDIN STADIUM",
-      "image": "https://digitalhub.fifa.com/transform/9a80209e-7816-4ca3-9b09-03acc02777d4/g28n6qzvnrx8yljbcbn2-jpg?io=transform:fill,height:775,width:1180&quality=100"
+      "image": "https://dgomesdev.github.io/Women-World-Cup/docs/images/Dunedin-Stadium.jpg"
     },
     "homeTeam": "AR",
     "awayTeam": "ZA",
@@ -253,7 +253,7 @@
     "name": "GROUP D",
     "stadium": {
       "name": "SIDNEY FOOTBALL STADIUM",
-      "image": "https://digitalhub.fifa.com/transform/1177bc85-75a3-43dd-b5f1-56605ab9618b/FIFA-WWC-2023-Eden-Park-full-stadium?io=transform:fill,height:775,width:1180&quality=100"
+      "image": "https://dgomesdev.github.io/Women-World-Cup/docs/images/Sidney-Football-Stadium.jpg"
     },
     "homeTeam": "GB",
     "awayTeam": "DK",
@@ -263,7 +263,7 @@
     "name": "GROUP D",
     "stadium": {
       "name": "HINDMARSH STADIUM",
-      "image": "https://digitalhub.fifa.com/transform/9a80209e-7816-4ca3-9b09-03acc02777d4/g28n6qzvnrx8yljbcbn2-jpg?io=transform:fill,height:775,width:1180&quality=100"
+      "image": "https://dgomesdev.github.io/Women-World-Cup/docs/images/Hindmarsh-Stadium.jpg"
     },
     "homeTeam": "CN",
     "awayTeam": "HT",
@@ -273,7 +273,7 @@
     "name": "GROUP G",
     "stadium": {
       "name": "WELLINGTON REGIONAL STADIUM",
-      "image": "https://digitalhub.fifa.com/transform/bf1ee1a9-f38f-47ad-bca0-a2796ac2fac5/aarrqfnuj5gxdlj3olod-jpg?io=transform:fill,height:775,width:1180&quality=100"
+      "image": "https://dgomesdev.github.io/Women-World-Cup/docs/images/Wellington-Regional-Stadium.jpg"
     },
     "homeTeam": "SE",
     "awayTeam": "IT",
@@ -283,7 +283,7 @@
     "name": "GROUP F",
     "stadium": {
       "name": "BRISBANE STADIUM",
-      "image": "https://digitalhub.fifa.com/transform/2171a389-93b4-408e-ada7-637ed5792246/okuiz7fofp41ds80dfua-jpg?io=transform:fill,height:775,width:1180&quality=100"
+      "image": "https://dgomesdev.github.io/Women-World-Cup/docs/images/Brisbane-Stadium.jpg"
     },
     "homeTeam": "FR",
     "awayTeam": "BR",
@@ -293,7 +293,7 @@
     "name": "GROUP F",
     "stadium": {
       "name": " PERTH RECTANGULAR STADIUM",
-      "image": "https://digitalhub.fifa.com/transform/a3d552a7-126d-42b5-93ed-87e74383e7fa/Perth-Rectangular-Stadium?io=transform:fill,height:775,width:1180&quality=100"
+      "image": "https://dgomesdev.github.io/Women-World-Cup/docs/images/Perth-Rectangular-Stadium.jpg"
     },
     "homeTeam": "PA",
     "awayTeam": "JM",
@@ -303,7 +303,7 @@
     "name": "GROUP H",
     "stadium": {
       "name": "HINDMARSH  STADIUM",
-      "image": "https://digitalhub.fifa.com/transform/1177bc85-75a3-43dd-b5f1-56605ab9618b/FIFA-WWC-2023-Eden-Park-full-stadium?io=transform:fill,height:775,width:1180&quality=100"
+      "image": "https://dgomesdev.github.io/Women-World-Cup/docs/images/HIndmarsh-Stadium.webp"
     },
     "homeTeam": "KR",
     "awayTeam": "MA",
@@ -313,7 +313,7 @@
     "name": "GROUP A",
     "stadium": {
       "name": "EDEN PARK",
-      "image": "https://digitalhub.fifa.com/transform/1177bc85-75a3-43dd-b5f1-56605ab9618b/FIFA-WWC-2023-Eden-Park-full-stadium?io=transform:fill,height:775,width:1180&quality=100"
+      "image": "https://dgomesdev.github.io/Women-World-Cup/docs/images/Eden-Park.jpg"
     },
     "homeTeam": "NO",
     "awayTeam": "PH",
@@ -323,7 +323,7 @@
     "name": "GROUP A",
     "stadium": {
       "name": "DUNEDIN STADIUM",
-      "image": "https://digitalhub.fifa.com/transform/9a80209e-7816-4ca3-9b09-03acc02777d4/g28n6qzvnrx8yljbcbn2-jpg?io=transform:fill,height:775,width:1180&quality=100"
+      "image": "https://dgomesdev.github.io/Women-World-Cup/docs/images/Dunedin-Stadium.jpg"
     },
     "homeTeam": "CH",
     "awayTeam": "NZ",
@@ -333,7 +333,7 @@
     "name": "GROUP H",
     "stadium": {
       "name": "SIDNEY FOOTBALL STADIUM",
-      "image": "https://digitalhub.fifa.com/transform/31fc369c-ad8f-4ebf-bdc3-268d120c75e0/FIFA-Women-s-World-Cup-Australia-New-Zealand-2023-Sydney-Football-Stadium?io=transform:fill,height:775,width:1180&quality=100"
+      "image": "https://dgomesdev.github.io/Women-World-Cup/docs/images/Sidney-Football-Stadium.jpg"
     },
     "homeTeam": "DE",
     "awayTeam": "CO",
@@ -343,7 +343,7 @@
     "name": "GROUP C",
     "stadium": {
       "name": "WAIKATO  STADIUM",
-      "image": "https://digitalhub.fifa.com/transform/1177bc85-75a3-43dd-b5f1-56605ab9618b/FIFA-WWC-2023-Eden-Park-full-stadium?io=transform:fill,height:775,width:1180&quality=100"
+      "image": "https://dgomesdev.github.io/Women-World-Cup/docs/images/HIndmarsh-Stadium.webp"
     },
     "homeTeam": "CR",
     "awayTeam": "ZM",
@@ -353,7 +353,7 @@
     "name": "GROUP C",
     "stadium": {
       "name": "WELLINGTON REGIONAL STADIUM",
-      "image": "https://digitalhub.fifa.com/transform/bf1ee1a9-f38f-47ad-bca0-a2796ac2fac5/aarrqfnuj5gxdlj3olod-jpg?io=transform:fill,height:775,width:1180&quality=100"
+      "image": "https://dgomesdev.github.io/Women-World-Cup/docs/images/Wellington-Regional-Stadium.jpg"
     },
     "homeTeam": "JP",
     "awayTeam": "ES",
@@ -363,7 +363,7 @@
     "name": "GROUP B",
     "stadium": {
       "name": "BRISBANE STADIUM",
-      "image": "https://digitalhub.fifa.com/transform/2171a389-93b4-408e-ada7-637ed5792246/okuiz7fofp41ds80dfua-jpg?io=transform:fill,height:775,width:1180&quality=100"
+      "image": "https://dgomesdev.github.io/Women-World-Cup/docs/images/Brisbane-Stadium.jpg"
     },
     "homeTeam": "IE",
     "awayTeam": "NG",
@@ -373,7 +373,7 @@
     "name": "GROUP B",
     "stadium": {
       "name": "BRISBANE STADIUM",
-      "image": "https://digitalhub.fifa.com/transform/2171a389-93b4-408e-ada7-637ed5792246/okuiz7fofp41ds80dfua-jpg?io=transform:fill,height:775,width:1180&quality=100"
+      "image": "https://dgomesdev.github.io/Women-World-Cup/docs/images/Brisbane-Stadium.jpg"
     },
     "homeTeam": "CA",
     "awayTeam": "AU",
@@ -383,7 +383,7 @@
     "name": "GROUP E",
     "stadium": {
       "name": "DUNEDIN STADIUM",
-      "image": "https://digitalhub.fifa.com/transform/9a80209e-7816-4ca3-9b09-03acc02777d4/g28n6qzvnrx8yljbcbn2-jpg?io=transform:fill,height:775,width:1180&quality=100"
+      "image": "https://dgomesdev.github.io/Women-World-Cup/docs/images/Dunedin-Stadium.jpg"
     },
     "homeTeam": "VN",
     "awayTeam": "NL",
@@ -393,7 +393,7 @@
     "name": "GROUP E",
     "stadium": {
       "name": "EDEN PARK",
-      "image": "https://digitalhub.fifa.com/transform/1177bc85-75a3-43dd-b5f1-56605ab9618b/FIFA-WWC-2023-Eden-Park-full-stadium?io=transform:fill,height:775,width:1180&quality=100"
+      "image": "https://dgomesdev.github.io/Women-World-Cup/docs/images/Eden-Park.jpg"
     },
     "homeTeam": "PT",
     "awayTeam": "US",
@@ -403,7 +403,7 @@
   "name": "GROUP D",
   "stadium": {
     "name": "HINDMARSH STADIUM",
-    "image": "https://digitalhub.fifa.com/transform/9a80209e-7816-4ca3-9b09-03acc02777d4/g28n6qzvnrx8yljbcbn2-jpg?io=transform:fill,height:775,width:1180&quality=100"
+    "image": "https://dgomesdev.github.io/Women-World-Cup/docs/images/Hindmarsh-Stadium.jpg"
   },
   "homeTeam": "HT",
   "awayTeam": "DK",
@@ -413,7 +413,7 @@
     "name": "GROUP D",
     "stadium": {
       "name": "HINDMARSH STADIUM",
-      "image": "https://digitalhub.fifa.com/transform/b704bec1-1b7a-4f4a-b2ef-114b46c99250/Hindmarsh-Stadium-updates?io=transform:fill,height:775,width:1180&quality=100"
+      "image": "https://dgomesdev.github.io/Women-World-Cup/docs/images/HIndmarsh-Stadium.jpg"
     },
     "homeTeam": "CN",
     "awayTeam": "GB",
@@ -423,7 +423,7 @@
     "name": "GROUP G",
     "stadium": {
       "name": "WELLINGTON REGIONAL STADIUM",
-      "image": "https://digitalhub.fifa.com/transform/bf1ee1a9-f38f-47ad-bca0-a2796ac2fac5/aarrqfnuj5gxdlj3olod-jpg?io=transform:fill,height:775,width:1180&quality=100"
+      "image": "https://dgomesdev.github.io/Women-World-Cup/docs/images/Wellington-Regional-Stadium.jpg"
     },
     "homeTeam": "ZA",
     "awayTeam": "IT",
@@ -433,7 +433,7 @@
     "name": "GROUP G",
     "stadium": {
       "name": "WAIKATO  STADIUM",
-      "image": "https://digitalhub.fifa.com/transform/1177bc85-75a3-43dd-b5f1-56605ab9618b/FIFA-WWC-2023-Eden-Park-full-stadium?io=transform:fill,height:775,width:1180&quality=100"
+      "image": "https://dgomesdev.github.io/Women-World-Cup/docs/images/HIndmarsh-Stadium.webp"
     },
     "homeTeam": "AR",
     "awayTeam": "SE",
@@ -443,7 +443,7 @@
     "name": "GROUP F",
     "stadium": {
       "name": "MELBOURNE RECTANGULAR STADIUM",
-      "image": "https://digitalhub.fifa.com/transform/83b00d4f-08ee-42ea-9557-85af1c3abdfe/nbonyd4swiogxcrige6p-jpg?io=transform:fill,height:775,width:1180&quality=100"
+      "image": "https://dgomesdev.github.io/Women-World-Cup/docs/images/Melbourne-Rectangular-Stadium.jpg"
     },
     "homeTeam": "JM",
     "awayTeam": "BR",
@@ -453,7 +453,7 @@
     "name": "GROUP F",
     "stadium": {
       "name": "SIDNEY FOOTBALL STADIUM",
-      "image": "https://digitalhub.fifa.com/transform/31fc369c-ad8f-4ebf-bdc3-268d120c75e0/FIFA-Women-s-World-Cup-Australia-New-Zealand-2023-Sydney-Football-Stadium?io=transform:fill,height:775,width:1180&quality=100"
+      "image": "https://dgomesdev.github.io/Women-World-Cup/docs/images/Sidney-Football-Stadium.jpg"
     },
     "homeTeam": "PA",
     "awayTeam": "FR",
@@ -463,7 +463,7 @@
     "name": "GROUP H",
     "stadium": {
       "name": "PERTH RECTANGULAR STADIUM",
-      "image": "https://digitalhub.fifa.com/transform/a3d552a7-126d-42b5-93ed-87e74383e7fa/Perth-Rectangular-Stadium?io=transform:fill,height:775,width:1180&quality=100"
+      "image": "https://dgomesdev.github.io/Women-World-Cup/docs/images/Perth-Rectangular-Stadium.jpg"
     },
     "homeTeam": "KR",
     "awayTeam": "DE",
@@ -473,7 +473,7 @@
     "name": "GROUP H",
     "stadium": {
       "name": "BRISBANE STADIUM",
-      "image": "https://digitalhub.fifa.com/transform/2171a389-93b4-408e-ada7-637ed5792246/okuiz7fofp41ds80dfua-jpg?io=transform:fill,height:775,width:1180&quality=100"
+      "image": "https://dgomesdev.github.io/Women-World-Cup/docs/images/Brisbane-Stadium.jpg"
     },
     "homeTeam": "MA",
     "awayTeam": "CO",
@@ -483,7 +483,7 @@
     "name": "ROUND OF 16",
     "stadium": {
       "name": "EDEN PARK",
-      "image": "https://digitalhub.fifa.com/transform/1177bc85-75a3-43dd-b5f1-56605ab9618b/FIFA-WWC-2023-Eden-Park-full-stadium?io=transform:fill,height:775,width:1180&quality=100"
+      "image": "https://dgomesdev.github.io/Women-World-Cup/docs/images/Eden-Park.jpg"
     },
     "homeTeam": "BR",
     "awayTeam": "BR",
@@ -493,7 +493,7 @@
     "name": "ROUND OF 16",
     "stadium": {
       "name": "WELLINGTON REGIONAL STADIUM",
-      "image": "https://digitalhub.fifa.com/transform/bf1ee1a9-f38f-47ad-bca0-a2796ac2fac5/aarrqfnuj5gxdlj3olod-jpg?io=transform:fill,height:775,width:1180&quality=100"
+      "image": "https://dgomesdev.github.io/Women-World-Cup/docs/images/Wellington-Regional-Stadium.jpg"
     },
     "homeTeam": "BR",
     "awayTeam": "BR",
@@ -503,7 +503,7 @@
     "name": "ROUND OF 16",
     "stadium": {
       "name": "SIDNEY FOOTBALL STADIUM",
-      "image": "https://digitalhub.fifa.com/transform/31fc369c-ad8f-4ebf-bdc3-268d120c75e0/FIFA-Women-s-World-Cup-Australia-New-Zealand-2023-Sydney-Football-Stadium?io=transform:fill,height:775,width:1180&quality=100"
+      "image": "https://dgomesdev.github.io/Women-World-Cup/docs/images/Sidney-Football-Stadium.jpg"
     },
     "homeTeam": "BR",
     "awayTeam": "BR",
@@ -513,7 +513,7 @@
     "name": "ROUND OF 16",
     "stadium": {
       "name": "MELBOURNE RECTANGULAR STADIUM",
-      "image": "https://digitalhub.fifa.com/transform/83b00d4f-08ee-42ea-9557-85af1c3abdfe/nbonyd4swiogxcrige6p-jpg?io=transform:fill,height:775,width:1180&quality=100"
+      "image": "https://dgomesdev.github.io/Women-World-Cup/docs/images/Melbourne-Rectangular-Stadium.jpg"
     },
     "homeTeam": "BR",
     "awayTeam": "BR",
@@ -523,7 +523,7 @@
     "name": "ROUND OF 16",
     "stadium": {
       "name": "BRISBANE STADIUM",
-      "image": "https://digitalhub.fifa.com/transform/2171a389-93b4-408e-ada7-637ed5792246/okuiz7fofp41ds80dfua-jpg?io=transform:fill,height:775,width:1180&quality=100"
+      "image": "https://dgomesdev.github.io/Women-World-Cup/docs/images/Brisbane-Stadium.jpg"
     },
     "homeTeam": "BR",
     "awayTeam": "BR",
@@ -533,7 +533,7 @@
     "name": "ROUND OF 16",
     "stadium": {
       "name": "STADIUM AUSTRALIA",
-      "image": "https://digitalhub.fifa.com/transform/a60eef38-4929-4bab-8c56-ddbcaa106b99/xsfoy68kyfbrxywhe9bf-jpg?io=transform:fill,height:775,width:1180&quality=100"
+      "image": "https://dgomesdev.github.io/Women-World-Cup/docs/images/Stadium-Australia.jpg"
     },
     "homeTeam": "BR",
     "awayTeam": "BR",
@@ -543,7 +543,7 @@
     "name": "ROUND OF 16",
     "stadium": {
       "name": "MELBOURNE RECTANGULAR STADIUM",
-      "image": "https://digitalhub.fifa.com/transform/83b00d4f-08ee-42ea-9557-85af1c3abdfe/nbonyd4swiogxcrige6p-jpg?io=transform:fill,height:775,width:1180&quality=100"
+      "image": "https://dgomesdev.github.io/Women-World-Cup/docs/images/Melbourne-Rectangular-Stadium.jpg"
     },
     "homeTeam": "BR",
     "awayTeam": "BR",
@@ -553,7 +553,7 @@
     "name": "ROUND OF 16",
     "stadium": {
       "name": "HINDMARSH STADIUM",
-      "image": "https://digitalhub.fifa.com/transform/b704bec1-1b7a-4f4a-b2ef-114b46c99250/Hindmarsh-Stadium-updates?io=transform:fill,height:775,width:1180&quality=100"
+      "image": "https://dgomesdev.github.io/Women-World-Cup/docs/images/HIndmarsh-Stadium.jpg"
     },
     "homeTeam": "BR",
     "awayTeam": "BR",
@@ -563,7 +563,7 @@
     "name": "QUARTER FINAL",
     "stadium": {
       "name": "WELLINGTON REGIONAL STADIUM",
-      "image": "https://digitalhub.fifa.com/transform/bf1ee1a9-f38f-47ad-bca0-a2796ac2fac5/aarrqfnuj5gxdlj3olod-jpg?io=transform:fill,height:775,width:1180&quality=100"
+      "image": "https://dgomesdev.github.io/Women-World-Cup/docs/images/Wellington-Regional-Stadium.jpg"
     },
     "homeTeam": "BR",
     "awayTeam": "BR",
@@ -573,7 +573,7 @@
     "name": "QUARTER FINAL",
     "stadium": {
       "name": "EDEN PARK",
-      "image": "https://digitalhub.fifa.com/transform/1177bc85-75a3-43dd-b5f1-56605ab9618b/FIFA-WWC-2023-Eden-Park-full-stadium?io=transform:fill,height:775,width:1180&quality=100"
+      "image": "https://dgomesdev.github.io/Women-World-Cup/docs/images/Eden-Park.jpg"
     },
     "homeTeam": "BR",
     "awayTeam": "BR",
@@ -583,7 +583,7 @@
     "name": "QUARTER FINAL",
     "stadium": {
       "name": "BRISBANE STADIUM",
-      "image": "https://digitalhub.fifa.com/transform/2171a389-93b4-408e-ada7-637ed5792246/okuiz7fofp41ds80dfua-jpg?io=transform:fill,height:775,width:1180&quality=100"
+      "image": "https://dgomesdev.github.io/Women-World-Cup/docs/images/Brisbane-Stadium.jpg"
     },
     "homeTeam": "BR",
     "awayTeam": "BR",
@@ -593,7 +593,7 @@
     "name": "QUARTER FINAL",
     "stadium": {
       "name": "STADIUM AUSTRALIA",
-      "image": "https://digitalhub.fifa.com/transform/a60eef38-4929-4bab-8c56-ddbcaa106b99/xsfoy68kyfbrxywhe9bf-jpg?io=transform:fill,height:775,width:1180&quality=100"
+      "image": "https://dgomesdev.github.io/Women-World-Cup/docs/images/Stadium-Australia.jpg"
     },
     "homeTeam": "BR",
     "awayTeam": "BR",
@@ -603,7 +603,7 @@
     "name": "SEMI FINAL",
     "stadium": {
       "name": "EDEN PARK",
-      "image": "https://digitalhub.fifa.com/transform/1177bc85-75a3-43dd-b5f1-56605ab9618b/FIFA-WWC-2023-Eden-Park-full-stadium?io=transform:fill,height:775,width:1180&quality=100"
+      "image": "https://dgomesdev.github.io/Women-World-Cup/docs/images/Eden-Park.jpg"
     },
     "homeTeam": "BR",
     "awayTeam": "BR",
@@ -613,7 +613,7 @@
     "name": "SEMI FINAL",
     "stadium": {
       "name": "STADIUM AUSTRALIA",
-      "image": "https://digitalhub.fifa.com/transform/a60eef38-4929-4bab-8c56-ddbcaa106b99/xsfoy68kyfbrxywhe9bf-jpg?io=transform:fill,height:775,width:1180&quality=100"
+      "image": "https://dgomesdev.github.io/Women-World-Cup/docs/images/Stadium-Australia.jpg"
     },
     "homeTeam": "BR",
     "awayTeam": "BR",
@@ -623,7 +623,7 @@
     "name": "3RD PLACE",
     "stadium": {
       "name": "BRISBANE STADIUM",
-      "image": "https://digitalhub.fifa.com/transform/2171a389-93b4-408e-ada7-637ed5792246/okuiz7fofp41ds80dfua-jpg?io=transform:fill,height:775,width:1180&quality=100"
+      "image": "https://dgomesdev.github.io/Women-World-Cup/docs/images/Brisbane-Stadium.jpg"
     },
     "homeTeam": "BR",
     "awayTeam": "BR",
@@ -633,9 +633,9 @@
     "name": "FINAL",
     "stadium": {
       "name": "STADIUM AUSTRALIA",
-      "image": "https://digitalhub.fifa.com/transform/a60eef38-4929-4bab-8c56-ddbcaa106b99/xsfoy68kyfbrxywhe9bf-jpg?io=transform:fill,height:775,width:1180&quality=100"
+      "image": "https://dgomesdev.github.io/Women-World-Cup/docs/images/Stadium-Australia.jpg"
     },
-    "homeTeam": "BR",
+    "homeTeam": "",
     "awayTeam": "BR",
     "date": "2023-08-20T11:00:00Z"
   }
